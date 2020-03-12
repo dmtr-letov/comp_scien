@@ -1,6 +1,4 @@
 [Start keyboard](keyboard://)
-[GitHub Flavored Markdown](keyboard://)
-
 
 
 
