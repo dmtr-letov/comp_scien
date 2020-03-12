@@ -1,6 +1,5 @@
 [Start keyboard](keyboard://)
-
-
+[yaru](http://ya.ru)
 
 ## Welcome to GitHub Pages
 
